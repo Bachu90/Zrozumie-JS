@@ -13,4 +13,5 @@ function isEven(number) {
     }
 }
 
+console.log(isEven(8));
 console.log(isEven(-1));
